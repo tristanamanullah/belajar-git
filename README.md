@@ -1,2 +1,2 @@
 # belajar-git
-Belajar github
+Hai aku tristan aku lagi Belajar github
